@@ -1,1 +1,2 @@
-This is a file used to experiment with git
+This is a file used to experiment with git.
+Just checking why I have to enter password every time I push to github.
